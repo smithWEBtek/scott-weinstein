@@ -7,6 +7,9 @@ gem 'dotenv-rails'
 gem 'thin'
 gem 'active_model_serializers'
 
+
+gem 'active_model_serializers'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails'
 # Use postgresql as the database for Active Record

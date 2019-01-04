@@ -13,7 +13,15 @@
 
 //= require jquery
 //= require jquery_ujs
+<<<<<<< Updated upstream
 //= require new_activity
 //= require show_activities
+=======
+//= require dataTables/jquery.dataTables
+
+//= require fusioncharts/fusioncharts
+//= require fusioncharts/fusioncharts.charts
+//= require fusioncharts/themes/fusioncharts.theme.fint
+>>>>>>> Stashed changes
 
 //= require_tree .
